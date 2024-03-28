@@ -1,6 +1,46 @@
-header {
-    background: blue;
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+/* Body styles */
+body {
+    min-width: 290px;
+    color: #080808;
+    background-color: #898d97;
+    height: 100%;
+    font-family: 'Inter', sans-serif;
+    
+    
+  }
+
+
+header a {
+    background: none;
+    text-decoration: none;
+ 
+}
+
+/* Navigation */
+
+#navs {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    list-style-type: none;
+    letter-spacing: 2px;
+    font-size: 110%;
+}
+
+#navs a:hover {
+    border-bottom: 1px solid #080808;
+}
+    
+
 
 section {
     background: gray;

@@ -10,7 +10,7 @@
 /* Body styles */
 body {
     min-width: 290px;
-    color: #080808;
+    color: #070707;
     background-color: #898d97;
     height: 100%;
     font-family: 'Inter', sans-serif;
@@ -20,8 +20,8 @@ body {
 
 
 header a {
-    background: none;
     text-decoration: none;
+    color:#4b0303;
  
 }
 
@@ -32,14 +32,13 @@ header a {
     gap: 1rem;
     justify-content: center;
     list-style-type: none;
-    letter-spacing: 2px;
     font-size: 110%;
 }
 
-#navs a:hover {
+/* #navs a:hover {
     border-bottom: 1px solid #080808;
 }
-    
+     */
 
 
 section {

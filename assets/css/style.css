@@ -9,20 +9,29 @@
 
 /* Body styles */
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     min-width: 290px;
     color: #070707;
     background-color: #898d97;
     height: 100%;
     font-family: 'Inter', sans-serif;
-    
-    
-  }
+}
+
+main {
+    background: gray;
+    flex: 1 0 auto;
+}
+
+footer {
+    background: orange;
+}
 
 
 header a {
     text-decoration: none;
     color:#4b0303;
- 
 }
 
 /* Navigation */
@@ -35,16 +44,4 @@ header a {
     font-size: 110%;
 }
 
-/* #navs a:hover {
-    border-bottom: 1px solid #080808;
-}
-     */
 
-
-section {
-    background: gray;
-}
-
-footer {
-    background: orange;
-}

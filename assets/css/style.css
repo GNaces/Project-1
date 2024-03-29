@@ -91,6 +91,35 @@ main {
     width: 40%;
 }
 
+/* About Page */
+
+#hands { 
+    height: 779px;
+    width: 100%;
+    background: url("../img/finalhands.jpg") no-repeat center center/cover;
+}
+
+#abouttitle {
+    text-align: left;
+    position: absolute;
+    top: 400px;
+    left: 30px;
+    width: 30%;
+    
+}
+
+#abouttitle > h1 {
+     color: rgb(116, 5, 5);
+     background-color: rgba(39, 37, 37, .5);
+     width: max-content;    
+}
+
+#abouttitle > p {
+    color: bisque;
+    background-color: rgba(8, 8, 8, 0.5);
+    margin-top: 5px;
+    
+}
 
 /* Footer */
 
@@ -135,6 +164,26 @@ footer {
         position: fixed;
         background-color: gray;
         z-index: 100;
+    }
+    
+    #abouttitle {
+        text-align: left;
+        position: absolute;
+        top: 80px;
+        left: 30px;
+        width: 30%;
+        
+    }
+    #abouttitle > h1 {
+         width: 160%;    
+    }
+
+    #abouttitle > p {
+        color: bisque;
+        background-color: rgba(8, 8, 8, 0.5);
+        margin-top: 5px;
+        width: 220%;
+        
     }
 }
 

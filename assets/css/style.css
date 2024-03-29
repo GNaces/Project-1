@@ -49,9 +49,6 @@ header a {
     list-style-type: none; 
 
 }
-.active {
-    border-bottom: 2px solid balck;
-}
 
 .needhelp {
     font-family: 'Anton', sans-serif;
@@ -60,8 +57,13 @@ header a {
 
 /* Main Content */
 main {
-    background: rgb(143, 141, 141);
     flex: 1 0 auto;
+
+#life { 
+    height: 750px;
+    width: 100%;
+    background: url("../img/life.jpg") no-repeat center center/cover;
+}
 }
 
 /* Footer */

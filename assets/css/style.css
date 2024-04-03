@@ -132,15 +132,6 @@ main {
 }
 
 
-#schedule {
-    text-align: left;
-    position: absolute;
-    top: 600px;
-    left: 30px;
-    width: 30%;
-    background-color: rgba(235, 228, 228, 0.5)
-}
-
 /* Footer */
 
 footer {
@@ -202,18 +193,9 @@ footer {
         color: bisque;
         background-color: rgba(8, 8, 8, 0.5);
         margin-top: 5px;
-        width: 220%;
-        
+        width: 220%;        
     }
-    #schedule {
-        text-align: left;
-        position: absolute;
-        top: 400px;
-        left: 0px;
-        width: 100%;
-        background-color: rgba(235, 228, 228, 0.5)
-    }
-}
+
 
 @media  screen and (min-width: 500px) {
     .effects {

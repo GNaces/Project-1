@@ -27,6 +27,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    background-color:rgba(223, 173, 12, 0.911);
 
 }
 header a {
@@ -171,9 +172,9 @@ footer {
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
-        position: fixed;
-        background-color: gray;
-        z-index: 100;
+        /* position: fixed; */
+        background-color:rgba(223, 173, 12, 0.911);
+        /* z-index: 100; */
     }
     
     #abouttitle {

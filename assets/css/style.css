@@ -136,6 +136,7 @@ main {
 
 footer {
     background-color: gray;
+    width: auto;
 }
 #social-networks {
     display: flex;
@@ -153,14 +154,14 @@ footer {
     
 }
 
-@media  screen and (max-width: 500px) {
+/* screens maximum 320px */
+@media  screen and (max-width: 320px) {
     .needhelp{
         display: none;
     }
 
     #introtitle {
-        width: 100%;
-        left: 0;
+        width: 75%;
     }
 
     .introtext, .tips {
@@ -173,6 +174,12 @@ footer {
         align-items: center;
         justify-content: space-between;
         background-color:rgba(223, 173, 12, 0.911);
+        /* position: fixed;
+        z-index: 100; */
+    }
+
+    #logo {
+        font-size: 140%;
     }
     
     /* About page */
@@ -183,24 +190,33 @@ footer {
         top: 80px;
         left: 30px;
         width: 30%;
-        
     }
+
     #abouttitle > h1 {
-         width: 160%;    
+        width: 100%;
+        font-size: 150%;    
     }
 
     #abouttitle > p {
         color: bisque;
         background-color: rgba(8, 8, 8, 0.5);
         margin-top: 5px;
-        width: 220%;        
+        margin-left: 0;
+        width: 250px;
     }
 
+    .cq-logo {
+        margin-top: 20px;
+        margin-left: 200px;
+        width: 150px;
+        height: 150px;
+    }
+}
 
 @media  screen and (min-width: 500px) {
     .effects {
         display: flex;
-        /* width: 100%; */
+        width: 100%;
         
     }
     .introtext {

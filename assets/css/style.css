@@ -27,6 +27,7 @@ header {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    background-color:rgba(223, 173, 12, 0.911);
 
 }
 header a {
@@ -34,7 +35,7 @@ header a {
     color: inherit;
 }
 #logo {
-    font-family: 'titan one', sans-serif;
+    font-family: 'dancing script', sans-serif;
     font-size: 180%;
     color:#df0909;
 }
@@ -93,6 +94,13 @@ main {
 
 /* About Page */
 
+.cq-logo {
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 200px;
+    height: 200px;
+}
+
 #hands { 
     height: 779px;
     width: 100%;
@@ -102,16 +110,18 @@ main {
 #abouttitle {
     text-align: left;
     position: absolute;
-    top: 400px;
+    top: 300px;
     left: 30px;
     width: 30%;
     
 }
 
 #abouttitle > h1 {
-     color: rgb(116, 5, 5);
-     background-color: rgba(39, 37, 37, .5);
-     width: max-content;    
+    background-color: rgba(39, 37, 37, .5);
+    width: max-content;
+    font-family: 'titan one', sans-serif;
+    font-size: 180%;
+    color:#1013e6;    
 }
 
 #abouttitle > p {
@@ -122,19 +132,11 @@ main {
 }
 
 
-#schedule {
-    text-align: left;
-    position: absolute;
-    top: 600px;
-    left: 30px;
-    width: 30%;
-    background-color: rgba(235, 228, 228, 0.5)
-}
-
 /* Footer */
 
 footer {
     background-color: gray;
+    width: auto;
 }
 #social-networks {
     display: flex;
@@ -152,14 +154,14 @@ footer {
     
 }
 
-@media  screen and (max-width: 500px) {
+/* screens maximum 320px */
+@media  screen and (max-width: 320px) {
     .needhelp{
         display: none;
     }
 
     #introtitle {
-        width: 100%;
-        left: 0;
+        width: 75%;
     }
 
     .introtext, .tips {
@@ -171,44 +173,50 @@ footer {
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
-        position: fixed;
-        background-color: gray;
-        z-index: 100;
+        background-color:rgba(223, 173, 12, 0.911);
+        /* position: fixed;
+        z-index: 100; */
+    }
+
+    #logo {
+        font-size: 140%;
     }
     
+    /* About page */
+
     #abouttitle {
         text-align: left;
         position: absolute;
         top: 80px;
         left: 30px;
         width: 30%;
-        
     }
+
     #abouttitle > h1 {
-         width: 160%;    
+        width: 100%;
+        font-size: 150%;    
     }
 
     #abouttitle > p {
         color: bisque;
         background-color: rgba(8, 8, 8, 0.5);
         margin-top: 5px;
-        width: 220%;
-        
+        margin-left: 0;
+        width: 250px;
     }
-    #schedule {
-        text-align: left;
-        position: absolute;
-        top: 400px;
-        left: 0px;
-        width: 100%;
-        background-color: rgba(235, 228, 228, 0.5)
+
+    .cq-logo {
+        margin-top: 20px;
+        margin-left: 150px;
+        width: 150px;
+        height: 150px;
     }
 }
 
 @media  screen and (min-width: 500px) {
     .effects {
         display: flex;
-        /* width: 100%; */
+        width: 100%;
         
     }
     .introtext {

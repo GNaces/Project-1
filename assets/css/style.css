@@ -115,10 +115,10 @@ main {
     
 }
 
-#abouttitle > h1 {
+#abouttitle > h2 {
     width: max-content;
     font-size: 180%;
-    color:#1013e6;    
+    color:black;    
 }
 
 #abouttitle > p {
@@ -252,7 +252,7 @@ footer {
         width: 30%;
     }
 
-    #abouttitle > h1 {
+    #abouttitle > h2 {
         width: 100%;
         font-size: 150%;    
     }

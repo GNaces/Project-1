@@ -3,7 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 
 * {
     margin: 0;
@@ -118,7 +117,6 @@ main {
 
 #abouttitle > h1 {
     width: max-content;
-    font-family: 'titan one', sans-serif;
     font-size: 180%;
     color:#1013e6;    
 }

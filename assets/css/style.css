@@ -117,7 +117,11 @@ main {
 }
 
 #abouttitle > h1 {
+<<<<<<< HEAD
     background-color: rgba(39, 37, 37, .5);
+=======
+    /* background-color: rgba(39, 37, 37, .5); */
+>>>>>>> caa434e325d27fe09ef7a81003b7d84472aaf26a
     width: max-content;
     font-family: 'titan one', sans-serif;
     font-size: 180%;
@@ -133,6 +137,7 @@ main {
 
 /* JoinUs page */
 
+<<<<<<< HEAD
 #hand { 
     height: 750px;
     width: 100%;
@@ -140,6 +145,8 @@ main {
     position: relative;
 }
 
+=======
+>>>>>>> caa434e325d27fe09ef7a81003b7d84472aaf26a
 /* Footer */
 
 footer {
@@ -163,7 +170,11 @@ footer {
 }
 
 /* screens maximum 320px */
+<<<<<<< HEAD
 @media  screen and (max-width: 320px) {
+=======
+@media  screen and (max-width: 350px) {
+>>>>>>> caa434e325d27fe09ef7a81003b7d84472aaf26a
     .needhelp{
         display: none;
     }
@@ -221,7 +232,7 @@ footer {
     }
 }
 
-@media  screen and (min-width: 500px) {
+@media  screen and (min-width: 768px) {
     .effects {
         display: flex;
         width: 100%;
@@ -237,4 +248,10 @@ footer {
         align-self: center;
         /* margin-right: 10px; */
     }
+<<<<<<< HEAD
 }
+=======
+
+    
+}
+>>>>>>> caa434e325d27fe09ef7a81003b7d84472aaf26a

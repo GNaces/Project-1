@@ -131,6 +131,14 @@ main {
     
 }
 
+/* JoinUs page */
+
+#hand { 
+    height: 750px;
+    width: 100%;
+    background: url("../img/sunset.jpg") no-repeat center center/cover;
+    position: relative;
+}
 
 /* Footer */
 

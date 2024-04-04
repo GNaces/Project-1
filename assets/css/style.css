@@ -171,10 +171,15 @@ footer {
     
 }
 
-/* screens maximum 320px */
-@media  screen and (max-width: 320px) {
+/* screens maximum 400px */
+@media  screen and (max-width: 500px) {
     .needhelp{
         display: none;
+    }
+    
+    .effects {
+        display: block;
+        gap: 5px;
     }
 
     #introtitle {

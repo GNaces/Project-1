@@ -35,7 +35,7 @@ header a {
     color: inherit;
 }
 #logo {
-    font-family: 'titan one', sans-serif;
+    font-family: 'dancing script', sans-serif;
     font-size: 180%;
     color:#df0909;
 }
@@ -117,7 +117,7 @@ main {
 }
 
 #abouttitle > h1 {
-    background-color: rgba(39, 37, 37, .5);
+    /* background-color: rgba(39, 37, 37, .5); */
     width: max-content;
     font-family: 'titan one', sans-serif;
     font-size: 180%;
@@ -155,7 +155,7 @@ footer {
 }
 
 /* screens maximum 320px */
-@media  screen and (max-width: 320px) {
+@media  screen and (max-width: 350px) {
     .needhelp{
         display: none;
     }
@@ -207,13 +207,13 @@ footer {
 
     .cq-logo {
         margin-top: 20px;
-        margin-left: 200px;
+        margin-left: 150px;
         width: 150px;
         height: 150px;
     }
 }
 
-@media  screen and (min-width: 500px) {
+@media  screen and (min-width: 768px) {
     .effects {
         display: flex;
         width: 100%;
@@ -229,4 +229,6 @@ footer {
         align-self: center;
         /* margin-right: 10px; */
     }
+
+    
 }

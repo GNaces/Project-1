@@ -59,6 +59,45 @@ This online community offers a secure setting for asking for help, celebrating v
 
 ![Footer](readme-assets/footer.png)
 
+## Testing 
+
+* This page works in different broswers such as; Google Chrome, Safari and Firefox.
+* The page is responsive, all links work and it all looks good on different standard screen sizes using devtools and testing out on different devices.
+* I confirm that the navigation, header, sign up and form text are all readable and easy to access and understand.
+* I have confirmed that the form works. It requires entries in every field: First Name, Last Name and Email. Will only accept an email in the Email field and the radio and submit buttons work.
+
+### Bugs
+
+* There were no bugs when deploying my page to the GitHub Pages.
+
+### Validator Testing
+
+* HTML
+    * No errors were found when passing through the official W3C validator.
+  
+* CSS 
+    * No errors were found when passing through the official (Jigsaw) validator.
+
+* Accessibility
+    * I confirmed that my webiste is accessible by running it through lighthouse in devtools.
+
+![Lighthouse report](readme-assets/lighthouse-validation.png)
+
+### Unfixed Bugs
+
+* No unfixed bugs.
+
+# Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+    * In GitHub pages , navigate to the Settings tab.
+    * Down the left hand side menu, navigate to the Pages tab.
+    * Select the Main branch and select save.
+    * The page will automatically refresh and the page link will appear at the top of the GitHub pages.
+    * When a green tick appears it indicates a successful deployment.
+
+
+  * The live link can be found here - [Completely Quit](https://gnaces.github.io/Project-1/index.html)
 
 
 

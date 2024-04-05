@@ -41,3 +41,14 @@ This online community offers a secure setting for asking for help, celebrating v
 * CQ Logo is placed which signifies Completely Quite.
 
 ![About](readme-assets/about.png)
+
+### Join Us section
+
+* Contains a narrative that informs the users our priority.
+* Shows a form that upon sign up will ideally gain access to additional resources, and support tools to enhance your quit experience.
+* The form collects Firstname, Lastname and email address that will be used as resources to provide updates to their progress.
+* Information will be used to enlist the user to the online community.
+
+![Join-Us](readme-assets/joinus.png)
+
+

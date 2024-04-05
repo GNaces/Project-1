@@ -100,4 +100,10 @@ This online community offers a secure setting for asking for help, celebrating v
   * The live link can be found here - [Completely Quit](https://gnaces.github.io/Project-1/index.html)
 
 
+# Credits
 
+* The code to make the social media links, signup page and some code was taken from the CI [Love Running](https://gnaces.github.io/Love-Running-Project/).
+* Some code are taken from [Mellow Tea](https://mikacodez.github.io/mellowte/).
+* Favicon steps is from [Dani Krossing](https://www.youtube.com/@Dani_Krossing) YouTube channel.
+* Effects and benifits of quitting smoking is taken from [Better Health](https://www.betterhealth.vic.gov.au/health/healthyliving/What-to-expect-when-you-quit-smoking)  channel.
+* Tips on quitting smoking is taken from [NHS Channel](https://www.nhs.uk/better-health/quit-smoking/?WT.mc_ID=MarchPPC&gad_source=1&gclid=Cj0KCQjwqpSwBhClARIsADlZ_TkBs4w26RWlR_9KGRipL_UQcYAwHCF4s_38DyRfXqF-QcJ_r3kIoKEaAjbCEALw_wcB&gclsrc=aw.ds).

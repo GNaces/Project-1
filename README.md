@@ -61,7 +61,7 @@ This online community offers a secure setting for asking for help, celebrating v
 
 ## Testing 
 
-* This page works in different broswers such as; Google Chrome, Safari and Firefox.
+* This page works in different broswers such as; Google Chrome, Safari, Microsoft Edge and Firefox.
 * The page is responsive, all links work and it all looks good on different standard screen sizes using devtools and testing out on different devices.
 * I confirm that the navigation, header, sign up and form text are all readable and easy to access and understand.
 * I have confirmed that the form works. It requires entries in every field: First Name, Last Name and Email. Will only accept an email in the Email field and the radio and submit buttons work.
@@ -102,8 +102,21 @@ This online community offers a secure setting for asking for help, celebrating v
 
 # Credits
 
+### Contents
+
 * The code to make the social media links, signup page and some code was taken from the CI [Love Running](https://gnaces.github.io/Love-Running-Project/).
 * Some code are taken from [Mellow Tea](https://mikacodez.github.io/mellowte/).
 * Favicon steps is from [Dani Krossing](https://www.youtube.com/@Dani_Krossing) YouTube channel.
 * Effects and benifits of quitting smoking is taken from [Better Health](https://www.betterhealth.vic.gov.au/health/healthyliving/What-to-expect-when-you-quit-smoking)  channel.
 * Tips on quitting smoking is taken from [NHS Channel](https://www.nhs.uk/better-health/quit-smoking/?WT.mc_ID=MarchPPC&gad_source=1&gclid=Cj0KCQjwqpSwBhClARIsADlZ_TkBs4w26RWlR_9KGRipL_UQcYAwHCF4s_38DyRfXqF-QcJ_r3kIoKEaAjbCEALw_wcB&gclsrc=aw.ds).
+
+### Media
+
+* The image used in the homepage was taken from [FreePik](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fworld-no-tobacco-day-concept-tobacco-cigarette-butts-with-word-life-floor-health_27867208.htm&psig=AOvVaw0Q-kRaqR14ZDlx1QozVw8x&ust=1712401586828000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCHspj3qoUDFQAAAAAdAAAAABAE).
+* CQ logo was created in [LOGO](https://logo.com/).
+* Image in About Page is taken from [Evangelical Alliance](https://www.eauk.org/news-and-views/unconditional-friendship).
+* Image in Join Us page is taken from [ShutterStock](https://www.shutterstock.com/search/helping-hand-silhouette).
+
+### Learning Resources
+
+* I used [Love Running](https://gnaces.github.io/Love-Running-Project/) and [Mellow Tea](https://mikacodez.github.io/mellowte/) projects to learn how to position some of my structure around the webpage.

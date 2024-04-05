@@ -20,4 +20,9 @@ This online community offers a secure setting for asking for help, celebrating v
 
 ![Navigation bar](readme-assets/navigation.png)
 
+### Header
 
+* The Header is the welcome page which starts a narative about the benifits of quitting smoking. The background image color helps the narative to stand out.
+* This shows consequence of reducing life expectancy due to smoking.
+
+![Header section](readme-assets/header-welcome.png)

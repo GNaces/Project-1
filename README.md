@@ -26,3 +26,18 @@ This online community offers a secure setting for asking for help, celebrating v
 * This shows consequence of reducing life expectancy due to smoking.
 
 ![Header section](readme-assets/header-welcome.png)
+
+### Effects and Tips Narrative
+
+* This section shows what to expect after quitting smoking. Provides a link to a blog Better Health Channel the gives further details of the advantages.
+* This also gives Tips on quitting. Details are further provided in NHS Website link provided.
+
+![Narrative](readme-assets/effect-tips.png)
+
+### About
+
+* This shows Completely Quit website purpose, and its core principles. Learn why it brings us great joy to assist people in giving up smoking and regaining health and vitality.
+* This challenges the user to reach its full potential.
+* CQ Logo is placed which signifies Completely Quite.
+
+![About](readme-assets/about.png)

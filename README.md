@@ -51,4 +51,14 @@ This online community offers a secure setting for asking for help, celebrating v
 
 ![Join-Us](readme-assets/joinus.png)
 
+### Footer
+
+* COntains a phrase Choose Life which reminds the user how valuable there lives are.
+* This section shows all the social media links the user can access to keep up to date with the Completely Quite updates.
+* There are four individual links, which is Facebook, Instagram, Twitter and YouTube. Each link will take the users to a different social media of Completely Quit.
+
+![Footer](readme-assets/footer.png)
+
+
+
 
